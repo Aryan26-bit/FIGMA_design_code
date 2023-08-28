@@ -5,14 +5,16 @@ Ui- Screenshots
 
 
 ![Screenshot (3104)](https://github.com/Aryan26-bit/FIGMA_design_code/assets/53808891/e43dc6dc-2b18-495f-9885-cedbf47521e4)
-
 ![Screenshot (3103)](https://github.com/Aryan26-bit/FIGMA_design_code/assets/53808891/e5885bdf-28a4-4142-91f4-924b00f4eec3)
-![Screenshot (3103)](https://github.com/Aryan26-bit/FIGMA_design_code/assets/53808891/cca7a939-e26e-4fd2-8627-49517f46e538)
+
 ![Screenshot (3105)](https://github.com/Aryan26-bit/FIGMA_design_code/assets/53808891/9ab969ee-60d9-4229-992a-b69948835f7d)
 ![image](https://github.com/Aryan26-bit/FIGMA_design_code/assets/53808891/6701bb5b-1447-4bcd-b6e8-760346496615)
-![Uploading image.png…]()
 
 
+
+
+![Screenshot (3109)](https://github.com/Aryan26-bit/FIGMA_design_code/assets/53808891/02d7a831-941c-4df5-9674-eeff4f7af4dc)
+![Uploading Screenshot (3110).png…]()
 
 
 
