@@ -1,3 +1,33 @@
+
+Ui- Screenshots
+
+
+
+
+
+![Screenshot (3105)](https://github.com/Aryan26-bit/FIGMA_design_code/assets/53808891/75c60133-dec8-43d6-b3a7-564453de27de)
+![Screenshot (3104)](https://github.com/Aryan26-bit/FIGMA_design_code/assets/53808891/e43dc6dc-2b18-495f-9885-cedbf47521e4)
+
+![Screenshot (3104)](https://github.com/Aryan26-bit/FIGMA_design_code/assets/53808891/92ff78a8-7412-49e7-9fe4-a132581445bb)
+![Screenshot (3103)](https://github.com/Aryan26-bit/FIGMA_design_code/assets/53808891/e5885bdf-28a4-4142-91f4-924b00f4eec3)
+![Screenshot (3103)](https://github.com/Aryan26-bit/FIGMA_design_code/assets/53808891/cca7a939-e26e-4fd2-8627-49517f46e538)
+![Screenshot (3105)](https://github.com/Aryan26-bit/FIGMA_design_code/assets/53808891/9ab969ee-60d9-4229-992a-b69948835f7d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
